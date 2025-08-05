@@ -12,16 +12,18 @@ Download from the redist folder or [releases tab](https://github.com/zchrome/mod
 
 ### Four modes for advancing the sequence:
 
-**MIDI** advances on MIDI messages (note on, note off or both). User can set a count to advance after a certain number of note events, default is 1.  
-**Seq** runs the sequencer on the Ableton clock, supports note value or free-running modes.  
-**Gate** is similar to _Seq_ mode, but only advances when a MIDI note is held (analogous to an arpeggiator).  
-**Manual** mode sets the step manuall with a knob (possible to automate or modulate).  
+- **MIDI** advances on MIDI messages (note on, note off or both). User can set a count to advance after a certain number of note events, default is 1.  
+- **Seq** runs the sequencer on the Ableton clock, supports note value or free-running modes.  
+- **Gate** is similar to _Seq_ mode, but only advances when a MIDI note is held (analogous to an arpeggiator).  
+- **Manual** mode sets the step manually with a knob (possible to automate or modulate).  
 
-**Smoothing** and **jitter** controls to effect the modulation signal.  
-Global **depth** control.  
-**Sorting**, **randomization** and **scramble** functions to change all step values.  
-Control of **step values** from multislider or fine-tune control with numboxes.  
-Working **undo** buffer for the sequencer step values.  
+### Additionally:
+
+- **Smoothing** and **jitter** controls to effect the modulation signal.  
+- Global **depth** control.  
+- **Sorting**, **randomization** and **scramble** functions to change all step values.  
+- Control of **step values** from multislider or fine-tune control with numboxes.  
+- Working **undo** buffer for the sequencer step values.  
 
 **Known issues (August 2025)**:
 
