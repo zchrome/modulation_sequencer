@@ -6,7 +6,7 @@ Max for Live modulation sequencer Audio Effect device for Ableton Live.
 
 Built with Max 8.6.4 and Ableton Live 12. No guarantees on other versions!
 
-Download from the redist folder.
+Download from the redist folder or [releases tab](https://github.com/zchrome/modulation_sequencer/tags).
 
 ## Features
 
